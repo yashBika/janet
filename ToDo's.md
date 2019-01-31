@@ -1,0 +1,2 @@
+- Update the code so it is more intuitive and readable
+- Comment every single line so we know what it does
