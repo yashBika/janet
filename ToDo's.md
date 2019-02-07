@@ -10,3 +10,7 @@ Everyone
 Only 1 of Us
 - Update the code so it is more intuitive and readable
 - Comment EVERY single line so we know what it does
+
+Mac people
+- figure out how to disable the FaceTime camera
+- allow use of Janet's camera
