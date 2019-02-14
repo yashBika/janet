@@ -2,6 +2,7 @@ By Feb 13, 2019
 
 Everyone
 - Get access to Exceed Lab
+- Do what Roho says
 - Do the Github [Intro to Git](https://guides.github.com/activities/hello-world/)
 - work through Nova Education Guide
   - read
@@ -14,3 +15,6 @@ Only 1 of Us
 Mac people
 - figure out how to disable the FaceTime camera
 - allow use of Janet's camera
+
+On Meeting Days
+- make sure Janet acts according to code
